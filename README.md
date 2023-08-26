@@ -1,6 +1,10 @@
+![Untitled design (3)1](https://github.com/KTsula/KTsula/assets/64359365/b33b8012-9593-4d90-9cd9-02a38827dbbc)
 
-![Keti Sulamanidze](https://github.com/KTsula/KTsula/assets/64359365/04d80730-49b5-46e1-88bb-7af644cf2ad1)
+I am a Computer Science and AI student at IE University. I am passionate about coding, mathematics, and entrepreneurship. In my free time you will find me either learning a new skill (completing a course, reading a book), challenging myself (participating in competitions, doing competitive programming, building a new project), or researching new business ideas.
 
+Here are my stats ⬇️
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KTsula/KTsula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
