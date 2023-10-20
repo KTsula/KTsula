@@ -1,4 +1,6 @@
-![Untitled design (3)1](https://github.com/KTsula/KTsula/assets/64359365/b33b8012-9593-4d90-9cd9-02a38827dbbc)
+<p align="center">
+  <img src="https://github.com/KTsula/KTsula/assets/64359365/da1e6bf2-5efe-4462-831a-02ef6ceac73c" alt="Keti's Banner" width="100%">
+</p>
 
 <h1 align="center">Hello, I am Keti Sulamanidze :)✨</h1>
 
