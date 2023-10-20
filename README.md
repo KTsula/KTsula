@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KTsula/KTsula/assets/64359365/da1e6bf2-5efe-4462-831a-02ef6ceac73c" alt="Keti's Banner" width="100%">
+  <img src="https://github.com/KTsula/KTsula/assets/64359365/5cca9d7a-7947-44a0-b930-6d592504498a" alt="Keti's Banner" width="100%">
 </p>
 
 <h1 align="center">Hello, I am Keti Sulamanidze :)✨</h1>
