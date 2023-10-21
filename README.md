@@ -22,8 +22,15 @@ I am a Computer Science and AI student at IE University. I am passionate about c
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
+## 🏆 Certifications
 
+- Azure Fundamentals
+- Azure AI Fundamentals
+- 270th out of 3250 in Google’s Code Jam to I/O for Women 2022
+- Honorable Mention in European Girls’ Mathematical Olympiad 2019 - In top 4 mathematician girls in Georgia
+- 6th out of 28 on the Newset Datathon 2022 - built a machine learning model with Amazon’s data
 </p>
+
 Here are my stats ⬇️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsula)](https://github.com/anuraghazra/github-readme-stats)
