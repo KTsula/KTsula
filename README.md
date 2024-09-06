@@ -31,9 +31,6 @@ I am a Computer Science and AI student at IE University. I am passionate about c
 - 6th out of 28 on the Newset Datathon 2022 - built a machine learning model with Amazon’s data
 </p>
 
-Here are my stats ⬇️
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KTsula/KTsula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
